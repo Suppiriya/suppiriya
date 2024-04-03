@@ -1,4 +1,5 @@
 Parkinson Disease Detection using PET Images
+
 Execution Flow
 Dataset preparation
 Acquire data set (*.nii files) from PPMI
